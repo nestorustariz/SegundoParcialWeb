@@ -56,7 +56,12 @@ namespace SeungoParcialWeb.Controllers
         }
  
         
- 
+        [HttpGet("{identificacion}")]
+        public Persona Get(string identificacion)
+        {
+            var persona = _personaService.BuscarxIdentificacion(identificacion);
+            return persona;
+        }
         
     }
 }

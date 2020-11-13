@@ -1,7 +1,7 @@
 export class Persona {
 
     tipoDocumento:string;
-    identificacion:SVGAnimatedString;
+    identificacion:string;
     nombre:string;
     fechaNacimineto:Date;
     nombreInstitucion:string;
