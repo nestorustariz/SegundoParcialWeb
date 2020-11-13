@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uj3i48y4hyzE5e4EqCx1n7z8yZrd1iGS6Ugq2WS5ULiS14jRC4sxSk/v2oaNwJ7Fc6Flu5dCg2l4rcgocaV5bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\Nueva carpeta\\ParcialDosWeb\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

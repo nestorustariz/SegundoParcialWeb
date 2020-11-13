@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\bin\Debug\netstandard2.1\Datos.deps.json
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\bin\Debug\netstandard2.1\Datos.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\bin\Debug\netstandard2.1\Datos.pdb
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\bin\Debug\netstandard2.1\Entity.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\bin\Debug\netstandard2.1\Entity.pdb
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.csproj.CopyComplete
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Datos\obj\Debug\netstandard2.1\Datos.pdb

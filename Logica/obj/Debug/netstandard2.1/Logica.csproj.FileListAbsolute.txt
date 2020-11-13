@@ -1,0 +1,14 @@
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Logica.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Logica.pdb
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Datos.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Entity.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Entity.pdb
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\bin\Debug\netstandard2.1\Datos.pdb
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.csproj.CoreCompileInputs.cache
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.dll
+c:\Users\USUARIO\Documents\Nueva carpeta\ParcialDosWeb\Logica\obj\Debug\netstandard2.1\Logica.pdb
